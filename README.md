@@ -37,7 +37,7 @@ userlar için ise iç içe geçmiş veriler olduğu için 4 tablo oluşturma kar
 
 TEKNOLOJİLER:
 - PHP
-- Slim Framwork
+- Slim Framework
 - React
 - MySQL
 - XAMPP
