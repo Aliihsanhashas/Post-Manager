@@ -54,7 +54,7 @@ function PostTable() {
     <Container maxWidth="lg">
       <Box sx={{ my: 4 }}>
         <Typography variant="h4" component="h1" gutterBottom>
-          Post Manager Dashboard
+          Post Yönetim Ekrani
         </Typography>
         
         <TableContainer component={Paper}>
