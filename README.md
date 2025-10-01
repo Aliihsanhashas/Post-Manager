@@ -11,7 +11,7 @@ bir post yönetme uygulaması.
 - React : https://mui.com/material-ui/getting-started/learn/
 
 - İlk adımda JSONPlaceholder'daki verileri inceledim. Post'lar için tek tablo
-userlar için ise içi içe geçmiş veriler olduğu için toplamda 4 tablodan oluşturma kararı aldım.
+userlar için ise iç içe geçmiş veriler olduğu için 4 tablo oluşturma kararı aldım.
 
 2- VERİTABANI TASARIMI: 
 
